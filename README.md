@@ -4,7 +4,6 @@
   width="300"
   style="height: 300px; object-fit: cover; border-radius: 12px;"
 />
-
 <img
   src="./avatar%201.jpg"
   alt="1000003264.jpg"
