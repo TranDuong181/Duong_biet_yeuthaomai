@@ -1,6 +1,6 @@
 <img
   src="./avatar%201.jpg"
-  alt="1000003266_2.jpg"
+  alt="lv_0_20261027191955.jpg"
   width="300"
   style="height: 300px; object-fit: cover; border-radius: 12px;"
 />
